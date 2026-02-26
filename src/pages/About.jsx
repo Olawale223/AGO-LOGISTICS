@@ -10,22 +10,22 @@ import '../components/components.css';
 
 const WHY_ITEMS = [
   {
-    icon: '🌍',
+    
     title: 'Global Network',
     body: 'Partnerships across 38 countries give your cargo access to every major port, airport, and distribution hub on the planet.',
   },
   {
-    icon: '📡',
+   
     title: 'Real-Time Tracking',
     body: 'Our digital platform gives you live shipment visibility, proactive exception alerts, and full audit trails.',
   },
   {
-    icon: '🤝',
+   
     title: 'Dedicated Account Teams',
     body: 'Every client gets a named account manager who knows your business, your lanes, and your compliance requirements.',
   },
   {
-    icon: '🔒',
+    
     title: 'Compliance First',
     body: 'We navigate customs regimes, sanctions lists, and trade agreements so your goods always move without surprises.',
   },
